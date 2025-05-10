@@ -12,6 +12,7 @@ I'm a **Fullstack Web Developer** from Turkmenistan 🇹🇲 with a passion for 
 - Strong focus on writing clean and maintainable code
 - Passionate about learning and mastering new technologies
 - Currently working full-time, open to part-time freelance or remote projects
+- Languages: English, Russian, Turkmen
 
 ## 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aman-amanov-7526b8362/)
