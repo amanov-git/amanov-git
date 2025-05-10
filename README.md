@@ -3,7 +3,7 @@
 I'm a **Fullstack Web Developer** from Turkmenistan 🇹🇲 with a passion for building clean, responsive, and user-friendly web applications.
 
 ## 🚀 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwindcss, Redux
 - **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL, Sequelize
 
