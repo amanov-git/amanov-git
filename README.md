@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aman!
+# 👋 Hello, I'm Aman!
 
 I'm a **Fullstack Web Developer** from Turkmenistan 🇹🇲 with a passion for building clean, responsive, and user-friendly web applications.
 
