@@ -8,10 +8,9 @@ I'm a **Fullstack Web Developer** from Turkmenistan 🇹🇲 with a passion for 
 - **Database:** PostgreSQL, Sequelize
 
 ## 💼 Professional Profile
-- Developer with hands-on experience in fullstack and frontend projects
+- Developer with hands-on experience in fullstack, frontend and backend projects
 - Strong focus on writing clean and maintainable code
 - Passionate about learning and mastering new technologies
-- Currently working full-time, open to part-time freelance or remote projects
 - Languages: English, Russian, Turkmen
 
 ## 🔗 Let's Connect
