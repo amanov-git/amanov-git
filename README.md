@@ -9,8 +9,7 @@ I'm a **Fullstack Web Developer** from Turkmenistan 🇹🇲 with a passion for 
 - **Common:** TypeScript
 
 ## 💼 Professional Profile
-- Technical skills are just the foundation; reliability and business alignment are what actually drive a project to the finish line. I prioritize system stability and long-term scalability, ensuring that every technical decision I make is a direct answer to your specific business challenges.
-- I utilize a Vibe Engineering approach—leveraging state-of-the-art AI to handle implementation speed while I personally direct the System       Architecture, Database Integrity, and Business Logic. This allows me to deliver high-performance PERN stack solutions with the speed of a startup and the   architectural precision your business requires.
+- Technical skills and code are just tools; what really matters is a system that works and a developer you can rely on. I focus on building stable, scalable software that actually solves your business problems, not just something that looks good on paper.
 - Developer with hands-on experience in fullstack, frontend and backend projects
 - Strong focus on writing clean and maintainable code
 - Passionate about learning and mastering new technologies
