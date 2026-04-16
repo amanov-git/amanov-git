@@ -22,7 +22,7 @@ I'm a **Fullstack Web Developer** from Turkmenistan 🇹🇲 with a passion for 
 - Committed to continuous improvement
 
 ## 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aman-amanov-7526b8362/)
+- [LinkedIn](https://www.linkedin.com/in/aman-amanov-7526b8362/)
 - [Email](mailto:amanov5190@gmail.com)
 - [WhatsApp](https://wa.me/+99363855187)
 - [Telegram](https://t.me/webuser57)
