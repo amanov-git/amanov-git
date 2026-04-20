@@ -9,7 +9,7 @@ I'm a **Fullstack Web Developer** from Turkmenistan 🇹🇲 with a passion for 
 - **Common:** TypeScript
 
 ## 💼 Professional Profile
-- Technical skills and code are just tools; what really matters is a system that works and a developer you can rely on. I focus on building stable, scalable software that actually solves your business problems, not just something that looks good on paper.
+- Code and technical skills are just tools. Every business needs a system that works and a developer they can actually rely on. I take responsibility for the projects I lead, focusing on building stable, scalable software that solves your real business problems.
 - Developer with hands-on experience in fullstack, frontend and backend projects
 - Strong focus on writing clean and maintainable code
 - Passionate about learning and mastering new technologies
