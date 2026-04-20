@@ -10,6 +10,7 @@ I'm a **Fullstack Web Developer** from Turkmenistan 🇹🇲 with a passion for 
 
 ## 💼 Professional Profile
 - Code and technical skills are just tools. Every business needs a system that works and a developer they can actually rely on. I take responsibility for the projects I lead, focusing on building stable, scalable software that solves your real business problems.
+- I follow a modern, AI-accelerated workflow—using to handle implementation speed. This allows me to spend my energy where it matters most: directing the system design and ensuring your project is built with the precision your business requires, while I still control every line of the code.
 - Developer with hands-on experience in fullstack, frontend and backend projects
 - Strong focus on writing clean and maintainable code
 - Passionate about learning and mastering new technologies
