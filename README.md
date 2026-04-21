@@ -8,7 +8,7 @@ I'm a **Fullstack Web Developer** from Turkmenistan 🇹🇲 with a passion for 
 - **Database:** PostgreSQL, Sequelize
 
 ## 💼 Professional Profile
-- Code and technical skills are just tools. Every business needs a system that works and a developer they can actually rely on. I take responsibility for the projects I lead, focusing on building stable, scalable software that solves your real business problems.
+- Code and technical skills are just tools. Every business needs a system that works and a developer they can actually rely on. I take responsibility for the projects I do, focusing on building stable, scalable software that solves your real business problems.
 - Developer with hands-on experience in fullstack, frontend and backend projects
 - Strong focus on writing clean and maintainable code
 - Passionate about learning and mastering new technologies
